@@ -4,7 +4,6 @@
 An app that lets Users click on a button to change the text color of the text presented across the screen. 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://user-images.githubusercontent.com/111629844/187017339-a5956170-d8e1-4057-b15d-5e0a319d9504.gif" width=200><br>
 
