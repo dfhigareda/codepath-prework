@@ -6,7 +6,7 @@ An app that lets Users click on a button to change the text color of the text pr
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="![HelloFromMeToYou-–-MainActivity kt-_HelloFromMeToYou app main_-2022-08-27-00-45-27_Trim-_2_](https://user-images.githubusercontent.com/111629844/187017339-a5956170-d8e1-4057-b15d-5e0a319d9504.gif)" width=200><br>
+<img src="https://user-images.githubusercontent.com/111629844/187017339-a5956170-d8e1-4057-b15d-5e0a319d9504.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
